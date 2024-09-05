@@ -1,0 +1,7 @@
+body{font-size:24px;
+    color:darkblue;
+    background-color: moccasin;
+}
+h1{color:dodgerblue;text-shadow: 3px 3px 5px rgb(6, 41, 97);}
+h2{color:dodgerblue;text-shadow: 2px 2px 5px rgb(6, 41, 97);}
+a{text-decoration: none;color:lightgreen;font-weight:bold;text-shadow:1px 1px 8px darkgreen;}
